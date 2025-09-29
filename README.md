@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
