@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [3336-water-bottles-ii](https://github.com/Saket-Kumar777/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/Saket-Kumar777/Leetcode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
