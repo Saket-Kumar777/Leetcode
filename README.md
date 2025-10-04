@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -24,12 +26,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## Simulation
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/Saket-Kumar777/Leetcode/tree/master/3336-water-bottles-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
+## String
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
