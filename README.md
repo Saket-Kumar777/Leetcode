@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Saket-Kumar777/Leetcode/tree/master/0031-next-permutation) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saket-Kumar777/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Saket-Kumar777/Leetcode/tree/master/0031-next-permutation) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## String
 |  |
