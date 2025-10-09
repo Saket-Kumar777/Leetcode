@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Saket-Kumar777/Leetcode/tree/master/0060-permutation-sequence) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [3336-water-bottles-ii](https://github.com/Saket-Kumar777/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Greedy
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saket-Kumar777/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Saket-Kumar777/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
