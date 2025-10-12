@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-Kumar777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saket-Kumar777/Leetcode/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/Saket-Kumar777/Leetcode/tree/master/0051-n-queens) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saket-Kumar777/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saket-Kumar777/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Saket-Kumar777/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
