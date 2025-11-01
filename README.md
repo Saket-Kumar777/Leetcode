@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-Kumar777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saket-Kumar777/Leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/Saket-Kumar777/Leetcode/tree/master/0051-n-queens) |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Saket-Kumar777/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saket-Kumar777/Leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saket-Kumar777/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Saket-Kumar777/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Saket-Kumar777/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saket-Kumar777/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 ## Depth-First Search
 |  |
@@ -117,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saket-Kumar777/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
