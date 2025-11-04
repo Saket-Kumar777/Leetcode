@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Saket-Kumar777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1018-largest-perimeter-triangle](https://github.com/Saket-Kumar777/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saket-Kumar777/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saket-Kumar777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Saket-Kumar777/Leetcode/tree/master/0031-next-permutation) |
+| [0295-find-median-from-data-stream](https://github.com/Saket-Kumar777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1129-longest-string-chain](https://github.com/Saket-Kumar777/Leetcode/tree/master/1129-longest-string-chain) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saket-Kumar777/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saket-Kumar777/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -136,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Saket-Kumar777/Leetcode/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Saket-Kumar777/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Saket-Kumar777/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Saket-Kumar777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
